@@ -39,4 +39,3 @@ INSERT INTO Books (
         "https://books.google.com/books/content/images/frontcover/39iYWTb6n6cC?fife=w200-h300"
 );
 
-
